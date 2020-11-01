@@ -17,5 +17,7 @@
 | C04 | 85% | ex05 : norm error |
 | C05 | 80% | ex08 : didn't do |
 | C06 | 100% |  |
+
+
 | Rush00 | 125% |  |
 | Rush01 | 0% | norm error(header) |
