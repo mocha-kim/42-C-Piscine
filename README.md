@@ -15,5 +15,11 @@
 | C02 | 92% | ex12 : diff KO |
 | C03 | 100% |  |
 | C04 | 85% | ex05 : norm error |
-| C05 |  |  |
+| C05 | 80% | ex08 : didn't do |
 | C06 | 100% |  |
+
+
+| Subject | Grade |  | 
+| ---------- | :--------- | :----------:
+| Rush00 | 125% |  |
+| Rush01 | 0% | norm error(header) |
