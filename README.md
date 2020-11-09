@@ -17,6 +17,7 @@
 | C04 | 85% | ex05 : norm error |
 | C05 | 80% | ex08 : didn't do |
 | C06 | 100% |  |
+| C07 | 45% | ex3 : diff KO, ex04 : OK, ex05 :  OK |
 | C08 | 100% |  |
 
 
