@@ -25,3 +25,4 @@
 | ---------- | :--------- | :----------:
 | Rush00 | 125% |  |
 | Rush01 | 0% | norm error(header) |
+| BSQ | 0% | Map validate fail |
